@@ -1,2 +1,2 @@
 # python_scripts
-it's just python
+reddit_scraper.py: get all posts and comments from subreddit

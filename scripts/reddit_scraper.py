@@ -12,8 +12,8 @@ url = "https://api.pushshift.io/reddit/{}/search?limit=1000&sort=desc&subreddit=
 start_time = datetime.utcnow()
 
 reddit = praw.Reddit(
-    client_id="rQ7jg1bvuSI9PA",
-    client_secret="k5YVDGG2FcrjavT8gDNqAoiSGhgSaQ",
+    client_id="",
+    client_secret="",
     user_agent="my user agent"
     )
 
