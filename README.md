@@ -1,2 +1,2 @@
 # python_scripts
-it's just python
+1)reddit_scraper
